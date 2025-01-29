@@ -44,8 +44,8 @@ The entry point of the application that integrates all modules and triggers the 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone <repo_url>
-    cd <repo_name>
+    git clone https://github.com/Gautamaggrawal/lucidity_delivery_optimizer.git
+    cd lucidity_delivery_optimizer
     ```
 
 2. Install dependencies:
